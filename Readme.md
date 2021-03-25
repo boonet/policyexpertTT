@@ -7,7 +7,9 @@ change/comment `chrome.path` key within `config.properties` file to reflect your
    
 3. On mac, no need for anything
 
-4. Simply run
+4. Make sure you have latest version of chrome browser installed (Chrome 89 and above)
+
+5. Simply run
 
 `mvn clean install`
 
