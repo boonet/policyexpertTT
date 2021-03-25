@@ -3,7 +3,7 @@
 1. Clone/Download the project
 
 2. **If running on windows** change/comment `chrome.path` within
-   config.properties to reflect your os
+   `config.properties` file to reflect your os
    
 3. On mac, no need for anything
 
