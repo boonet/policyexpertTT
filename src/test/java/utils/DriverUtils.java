@@ -15,7 +15,7 @@ public class DriverUtils {
     @BeforeClass
     public static WebDriver setUp() throws Exception {
 
-        System.setProperty("webdriver.chrome.driver", getConfigValue("mac.chrome.path")); //todo: change "mac.chrome.path" to "win.chrome.path" if running on windows
+        System.setProperty("webdriver.chrome.driver", getConfigValue("chrome.path"));
 
         ConfigReader configReader = new ConfigReader();
 
